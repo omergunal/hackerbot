@@ -1,0 +1,7 @@
+virustotal-api==1.1.7
+ascii_graph
+tqdm==4.11.2
+tweepy==3.5.0
+aiml
+requests==2.5.3
+numpy==1.12.0

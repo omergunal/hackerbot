@@ -1,0 +1,51 @@
+<aiml version="1.0">
+
+<!-- This category works with the standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>aiml/standard/std-hacking.aiml</learn>
+<learn>aiml/standard/std-65percent.aiml</learn>
+<learn>aiml/standard/std-atomic.aiml</learn>
+<learn>aiml/standard/std-botmaster.aiml</learn>
+<learn>aiml/standard/std-brain.aiml</learn>
+<learn>aiml/standard/std-connect.aiml</learn>
+<learn>aiml/standard/std-dictionary.aiml</learn>
+<learn>aiml/standard/std-disconnect.aiml</learn>
+<learn>aiml/standard/std-dont.aiml</learn>
+<learn>aiml/standard/std-errors.aiml</learn>
+<learn>aiml/standard/std-gender.aiml</learn>
+<learn>aiml/standard/std-geography.aiml</learn>
+<learn>aiml/standard/std-german.aiml</learn>
+<learn>aiml/standard/std-gossip.aiml</learn>
+<learn>aiml/standard/std-hello.aiml</learn>
+<learn>aiml/standard/std-inactivity.aiml</learn>
+<learn>aiml/standard/std-inventions.aiml</learn>
+<learn>aiml/standard/std-knowledge.aiml</learn>
+<learn>aiml/standard/std-lizards.aiml</learn>
+<learn>aiml/standard/std-login.aiml</learn>
+<learn>aiml/standard/std-numbers.aiml</learn>
+<learn>aiml/standard/std-personality.aiml</learn>
+<learn>aiml/standard/std-pickup.aiml</learn>
+<learn>aiml/standard/std-politics.aiml</learn>
+<learn>aiml/standard/std-profile.aiml</learn>
+<learn>aiml/standard/std-religion.aiml</learn>
+<learn>aiml/standard/std-robot.aiml</learn>
+<learn>aiml/standard/std-sales.aiml</learn>
+<learn>aiml/standard/std-sextalk.aiml</learn>
+<learn>aiml/standard/std-sports.aiml</learn>
+<learn>aiml/standard/std-srai.aiml</learn>
+<learn>aiml/standard/std-suffixes.aiml</learn>
+<learn>aiml/standard/std-that.aiml</learn>
+<learn>aiml/standard/std-turing.aiml</learn>
+<learn>aiml/standard/std-yesno.aiml</learn>
+
+<!-- Load additional AIML set -->
+<learn>aiml/additional/computer.aiml</learn>
+
+</template>
+</category>
+
+</aiml>
