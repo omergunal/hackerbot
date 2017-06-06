@@ -31,3 +31,6 @@ chmod +x install.sh
 ```
 
 ### ScreenShots
+![help](https://github.com/omergunal/hackerbot/blob/master/img/11.png)
+![twitter](https://github.com/omergunal/hackerbot/blob/master/img/22.png)
+![filescan](https://github.com/omergunal/hackerbot/blob/master/img/33.png)
