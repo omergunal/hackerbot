@@ -40,7 +40,7 @@ from twittersecrets import consumer_key, consumer_secret, access_token, access_t
 
 if consumer_key == "XXX" or consumer_secret == "XXX" or access_token == "XXX" or access_token_secret == "XXX":
     print("*****************************************************")
-    print("Please fill in the secret.py for access twitter api")
+    print("Please fill in the modules/twittersecrets.py for access twitter api")
     print("*****************************************************")
 
 parser = argparse.ArgumentParser(description=
