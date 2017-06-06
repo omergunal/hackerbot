@@ -17,7 +17,7 @@ git clone https://github.com/omergunal/hackerbot
 chmod +x install.sh
 ./install.sh
 ```
- Update your api keys in modules/virustotal-api.py and modules/twittersecrets.py 
+ Update your api keys in _modules/virustotal-api.py_ and _modules/twittersecrets.py_
  To get API keys go to https://apps.twitter.com/ and https://www.virustotal.com
  
  ### Usage
