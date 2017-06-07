@@ -14,6 +14,7 @@ This bot is a combination of chatbot and hacking tools
 ### Installation
 ```
 git clone https://github.com/omergunal/hackerbot
+cd hackerbot
 chmod +x install.sh
 ./install.sh
 ```
