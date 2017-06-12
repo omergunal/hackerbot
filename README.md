@@ -36,3 +36,5 @@ chmod +x install.sh
 ![filescan](https://github.com/omergunal/hackerbot/blob/master/img/33.png)
 ![twitter](https://github.com/omergunal/hackerbot/blob/master/img/22.png)
 
+### Thanks
+[Ekultek](https://github.com/Ekultek)
