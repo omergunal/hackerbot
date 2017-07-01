@@ -2,6 +2,6 @@ virustotal-api==1.1.7
 ascii_graph==1.2.0
 tqdm==4.11.2
 tweepy==3.5.0
-aiml
+aiml==0.8.6
 requests==2.5.3
 numpy==1.12.0
