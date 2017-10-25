@@ -1,3 +1,4 @@
+# coding=utf-8
 import aiml
 import os
 import sys
