@@ -25,7 +25,7 @@ chmod +x install.sh
  **Python v2.7 required**
  
  ```
- python hackbot.py
+ python hackerbot.py
  
  arguments in chat:
     !help          show what you can do
