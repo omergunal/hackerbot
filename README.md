@@ -1,4 +1,12 @@
+
+
 # hackerbot
+[![GitHub issues](https://img.shields.io/github/issues/omergunal/hackerbot.svg)](https://github.com/omergunal/hackerbot/issues)
+[![GitHub forks](https://img.shields.io/github/forks/omergunal/hackerbot.svg)](https://github.com/omergunal/hackerbot/network)
+[![GitHub stars](https://img.shields.io/github/stars/omergunal/hackerbot.svg)](https://github.com/omergunal/hackerbot/stargazers)
+[![GitHub license](https://img.shields.io/github/license/omergunal/hackerbot.svg)](https://github.com/omergunal/hackerbot/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/omergunal/hackerbot.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fomergunal%2Fhackerbot)
+
 ### Chat with your assistant and enjoy hacking
 This bot is a combination of chatbot and hacking tools
 * Chatting
